@@ -5,7 +5,6 @@
 # controlado!
 #
 
-import readline
 from socket import socket
 from binascii import *
 from fnmatch import fnmatch
